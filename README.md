@@ -23,6 +23,6 @@ cd C:\TSSR0325-windows
 ./main2.ps1
 ```
 résultat final
-
+<p align="center" style="margin-top: 200px; margin-bottom: 100px;">
 ![Logo du projet](final.png)
-
+</p>
