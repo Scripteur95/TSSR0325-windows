@@ -15,5 +15,6 @@ git clone https://github.com/edo-ops/TSSR0325-windows
 ```
 puis lancer le script :
 ```
+cd C:\TSSR0325-windows
 ./main2.ps1
 ```
