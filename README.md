@@ -24,5 +24,5 @@ cd C:\TSSR0325-windows
 ```
 résultat final
 
-![Logo du projet](resultat final.png)
+![Logo du projet](resultatfinal.png)
 
