@@ -22,3 +22,7 @@ puis lancer le script :
 cd C:\TSSR0325-windows
 ./main2.ps1
 ```
+résultat final
+
+![Logo du projet](resultat final.png)
+
