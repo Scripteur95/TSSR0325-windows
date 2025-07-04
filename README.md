@@ -24,5 +24,5 @@ cd C:\TSSR0325-windows
 ```
 résultat final
 <p align="center" style="margin-top: 200px; margin-bottom: 100px;">
-![Logo du projet](final.png)
+  <img src="final.png" alt="Logo du projet" />
 </p>
